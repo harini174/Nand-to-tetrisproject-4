@@ -9,8 +9,7 @@
 // the screen should be cleared.
 
 //// Replace this comment with your code.
-@place 
-  M=0
+
 
 (LOOP)
   @KBD 
